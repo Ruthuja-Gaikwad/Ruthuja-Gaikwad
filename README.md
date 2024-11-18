@@ -61,7 +61,7 @@
   <a href="mailto:ruthujagaikwad731@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="40" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/Ruthuja-Gaikwad/" target="_blank">
+  <a href="https://www.linkedin.com/in/ruthuja-gaikwad/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="40" alt="LinkedIn" />
   </a>
 </div>
