@@ -57,8 +57,8 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ruthuja-Gaikwad&theme=dracula&hide_border=true" height="180" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ruthuja-Gaikwad&show_icons=true&theme=vue&count_private=true&include_all_commits=true" height="180" alt="Stats"/>
+  <img src="https://streak-stats.demolab.com?user=Ruthuja-Gaikwad&theme=dracula&hide_border=true" height="10" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ruthuja-Gaikwad&show_icons=true&theme=vue&count_private=true&include_all_commits=true" height="10" alt="Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruthuja-Gaikwad&layout=compact&theme=vue&hide=css,html,tcl" height="180" alt="Languages"/>
 </p>
 
