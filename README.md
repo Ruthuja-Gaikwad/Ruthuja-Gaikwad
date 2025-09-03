@@ -98,9 +98,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Ruthuja-Gaikwad&count_bg=%234c1&title_bg=%230D1117&icon=github.svg&icon_color=white&title=Profile%20Visits&edge_flat=false"/>
-</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
