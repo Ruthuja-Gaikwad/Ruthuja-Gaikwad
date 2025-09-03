@@ -76,6 +76,15 @@
 
 ---
 
+## 🌐 Portfolio  
+<p align="center">
+  <a href="https://portfolio-ruthuja.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=google-chrome&logoColor=white" height="35"/>
+  </a>
+</p>
+
+---
+
 ## 🌐 Connect with Me  
 
 <p align="center">
@@ -90,7 +99,7 @@
 ---
 
 <p align="center">
-  <img src="portfolio-ruthuja.vercel.app?id=Ruthuja-Gaikwad&icon=0&color=0" alt="Profile Visit Count"/>
+  <img src="https://portfolio-ruthuja.vercel.app?id=Ruthuja-Gaikwad&icon=0&color=0" alt="Profile Visit Count"/>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
