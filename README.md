@@ -99,7 +99,7 @@
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Ruthuja-Gaikwad&left_color=0D1117&right_color=4c1" alt="Profile Visit Count"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Ruthuja-Gaikwad&count_bg=%234c1&title_bg=%230D1117&icon=github.svg&icon_color=white&title=Profile%20Visits&edge_flat=false"/>
 </p>
 
 
