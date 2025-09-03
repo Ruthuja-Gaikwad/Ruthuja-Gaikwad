@@ -4,14 +4,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+%E2%9D%A4%EF%B8%8F;Computer+Science+Student;ML+%7C+AI+Enthusiast;Android+Developer;Always+Learning+New+Things">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+%E2%9D%A4%EF%B8%8F;Computer+Science+Student;ML+%7C+AI+Enthusiast;Web+Developer;Always+Learning+New+Things">
 </p>
 
 ---
 
 # 💫 About Me  
 - 🔭 Currently working on **Data Structures with Python**  
-- 👯 Open to collaborate on **Android, ML, and Cloud Computing projects**  
+- 👯 Open to collaborate on **Web Development, ML, and Cloud Computing projects**  
 - 🤝 Seeking help with **deploying ML models & scaling apps on the cloud**  
 - 💬 Ask me about **Python, SQL, Machine Learning, MERN Stack**  
 - ⚡ Fun fact: *I love turning coffee into code ☕🚀*  
